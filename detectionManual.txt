@@ -1,0 +1,8 @@
+DETECTION MODE
+    - face detection via IP camera
+
+    - labeled as unknown if not
+      present in the database
+      or below threshold
+
+Press 'q' to END

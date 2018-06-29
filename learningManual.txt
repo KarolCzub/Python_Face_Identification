@@ -1,0 +1,9 @@
+LEARNING MODE
+  - add new face to database
+    using IP camera
+
+  - point camera at the face and
+    slowly turn your face to
+    the sides
+
+Press 'q' to END
